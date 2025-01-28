@@ -5,7 +5,8 @@ I'm a **Controls Systems Technician** and a **Computer Engineering major** at **
 
 ### 🤝 Connect with Me
 
-https://www.linkedin.com/in/warnerjoseph
+[![LinkedIn](https://raw.githubusercontent.com/itsjoepro/itsjoepro/main/images/linkedin.svg)](https://www.linkedin.com/in/warnerjoseph/)
+<a href="https://www.linkedin.com/in/warnerjoseph"><img align="left" src="https://raw.githubusercontent.com/itsjoepro/itsjoepro/main/images/linkedin.svg" alt="Joseph Warner | LinkedIn" width="22px"/></a>
 
 ## 🛠 I'm currently working on
 
