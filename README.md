@@ -3,10 +3,6 @@
 ## 👨‍🎓 About Me
 I'm a **Controls Systems Technician** and a **Computer Engineering major** at **Wright State University**. I’m a hands-on problem solver who loves diving into challenge and learning new things. When I’m not working on projects, I love exploring new technology, hiking, and learning new skills.
 
-### 🤝 Connect with Me
-
-<a href="https://www.linkedin.com/in/warnerjoseph"><img align="left" src="https://raw.githubusercontent.com/itsjoepro/itsjoepro/main/images/linkedin.svg" alt="Joseph Warner | LinkedIn" width="22px"/></a></br>
-
 ## 🛠 I'm currently working on
 
 ### 🐦 Raspberry Pi Infrared Bird Box
@@ -21,3 +17,7 @@ This project leverages Raspberry Pi and flood/water sensors to monitor the condi
 - Python
 
 Through these projects, I'm learning more about IoT systems and using Linux that I'm currently learning at Wright State! (shoutout to my Instructor [Kayleigh Duncan](https://github.com/pattonsgirl))
+
+### 🤝 Connect with Me
+
+<a href="https://www.linkedin.com/in/warnerjoseph"><img align="left" src="https://raw.githubusercontent.com/itsjoepro/itsjoepro/main/images/linkedin.svg" alt="Joseph Warner | LinkedIn" width="22px"/></a></br>
