@@ -1,7 +1,7 @@
 #  Hi there 👋 I'm Joe
 
 ## 👨‍🎓 About Me
-I'm a **Controls Systems Technician** and a **Computer Engineering major** at **Wright State University**. I’m a hands-on problem solver who loves diving into challenge and learning new things. When I’m not working on projects, I love exploring new technology, hiking, and learning new skills.
+I'm a **Controls Systems Technician** and a **Computer Engineering student** at **Wright State University**. I’m a hands-on problem solver who loves diving into challenge and learning new things. When I’m not working on projects, I love exploring new technology, hiking, and learning new skills.
 
 ## 🛠 I'm currently working on
 
