@@ -8,7 +8,7 @@ I'm a **Control Systems Technician** and a **Computer Engineering student** at *
 ### 🐦 Raspberry Pi Infrared Bird Box
 Inspired by my mom's passion for birds, this project involves setting up a bird box for her backyard. Using Raspberry Pi and infrared technology, I'll create a video streaming system to observe the birds nesting inside. This project combines electronics, programming, and my love for nature.
 
-### 🌡️ Raspberr Pi Flood/Water Presence Sensor
+### 💧 Raspberr Pi Flood/Water Presence Sensor
 This project leverages Raspberry Pi and flood/water sensors to monitor the conditions in my basement. It will use PrivateEyePi to send email alerts if it detects a leak.
 
 ## 🌱 I'm currently learning
