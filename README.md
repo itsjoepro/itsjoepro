@@ -12,7 +12,8 @@ Inspired by my mom's passion for birds, this project involves setting up a bird 
 This project leverages Raspberry Pi and flood/water sensors to monitor the conditions in my basement. It will use PrivateEyePi to send email alerts if it detects a leak.
 
 ## 🌱 I'm currently learning
-- Ubuntu and PowerShell
+- Ubuntu
+- PowerShell
 - Git
 - Python
 
